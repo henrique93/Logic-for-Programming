@@ -1,2 +1,2 @@
-# Programming-Logic
+# Programming Logic
 # Project IST
